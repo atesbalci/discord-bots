@@ -1,0 +1,3 @@
+[submodule "HeratBot-beta"]
+	path = HeratBot-beta
+	url = https://github.com/helviti/HeratBot-beta.git
