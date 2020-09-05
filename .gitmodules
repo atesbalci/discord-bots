@@ -1,3 +1,6 @@
 [submodule "HeratBot"]
 	path = HeratBot
 	url = https://github.com/helviti/HeratBot.git
+[submodule "dolar-bey"]
+	path = dolar-bey
+	url = https://github.com/atesbalci/dolar-bey.git
