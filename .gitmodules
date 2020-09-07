@@ -4,3 +4,6 @@
 [submodule "dolar-bey"]
 	path = dolar-bey
 	url = https://github.com/atesbalci/dolar-bey.git
+[submodule "corona-hanim"]
+	path = corona-hanim
+	url = https://github.com/atesbalci/corona-hanim.git

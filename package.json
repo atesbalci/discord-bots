@@ -19,6 +19,7 @@
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^3.2.2-3",
     "fs": "0.0.1-security",
+    "got": "^11.6.0",
     "https": "^1.0.0",
     "moment": "^2.24.0",
     "request": "^2.88.2",
