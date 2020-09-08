@@ -23,7 +23,9 @@
     "https": "^1.0.0",
     "moment": "^2.24.0",
     "request": "^2.88.2",
-    "simple-git": "^2.11.0"
+    "simple-git": "^2.11.0",
+    "youtube-playlist": "^1.0.4",
+    "ytdl-core": "^3.2.2"
   },
   "repository": {
     "type": "git",

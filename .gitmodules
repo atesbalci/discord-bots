@@ -7,3 +7,6 @@
 [submodule "corona-hanim"]
 	path = corona-hanim
 	url = https://github.com/atesbalci/corona-hanim.git
+[submodule "HeratMusik"]
+	path = HeratMusik
+	url = https://github.com/helviti/HeratMusik.git
