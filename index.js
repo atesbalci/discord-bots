@@ -17,7 +17,7 @@ function startServer() {
 }
 
 startBot(process.env.HERATBOT_BOT_TOKEN);
-startDolarBot(process.env.DOLARBEY_BOT_TOKEN);
+startDolarBot(process.env.DOLARBEY_BOT_TOKEN, process.env.BERAT_BOT_TOKEN);
 initCoronaTelegram();
 initDolarTelegram();
 startServer();
